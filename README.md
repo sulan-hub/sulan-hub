@@ -5,7 +5,7 @@
 
 ![](https://img.shields.io/badge/喜欢-学习-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-red) 
-![](https://img.shields.io/badge/爱好-二次元-red)
+![](https://img.shields.io/badge/爱好-摄影-red)
 
 </div>
 
